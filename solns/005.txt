@@ -1,0 +1,13 @@
+Consider the numbers 1 through 20; we obviously need each prime number, hence:
+
+1 * 2 * 3 * 5 * 7 * 11 * 13 * 17 * 19
+
+Next, we consider the largest numbers first to get the maximum number of each factor needed:
+
+20 = 2 * 2 * 5
+18 = 2 * 3 * 3
+16 = 2 * 2 * 2 * 2
+
+Hence, we have:
+
+2 * 2 * 2 * 2 * 3 * 3 * 5 * 7 * 11 * 13 * 17 * 19 = 232792560

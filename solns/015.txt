@@ -1,0 +1,3 @@
+Lattice paths are a simple combinatorics problem, with the general solution provided here:
+https://en.wikipedia.org/wiki/Lattice_path
+Thus, the answer is simply 40C20.

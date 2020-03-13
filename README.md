@@ -1,2 +1,2 @@
-# euclidsolns
-My solutions to Euclid.
+# eulersolns
+My solutions to the problems on Project Euler, written in Python.

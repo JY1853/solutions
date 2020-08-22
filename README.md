@@ -1,2 +1,3 @@
-# eulersolns
-My solutions to the problems on Project Euler, written in Python.
+# solutions
+
+My solutions to problemsets on Code Forces, and problems on Project Euler.

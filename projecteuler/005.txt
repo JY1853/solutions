@@ -11,3 +11,17 @@ Next, we consider the largest numbers first to get the maximum number of each fa
 Hence, we have:
 
 2 * 2 * 2 * 2 * 3 * 3 * 5 * 7 * 11 * 13 * 17 * 19 = 232792560
+
+In Python, we have the following:
+
+```
+import math
+
+a, b = 1, 1
+
+while b < 21:
+    a = math.lcm(a, b)
+    b += 1
+
+print(a)
+```

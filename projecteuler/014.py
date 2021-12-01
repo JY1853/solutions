@@ -15,4 +15,4 @@ while c < 1000000:
     list.append(collatz(c))
     c += 1
 
-print(list.index(max(list)))
+print(list.index(max(list))) # have to +1 to the index
